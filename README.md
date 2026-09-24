@@ -87,12 +87,13 @@ I work with both **Java (Spring Framework)** and **PHP (Yii Framework)** and lov
 
 </p>
 
----
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sathishkumar0513&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 <br/>
+
+---
 
 <div align="center">
   <b>Thanks for visiting my profile!</b>
